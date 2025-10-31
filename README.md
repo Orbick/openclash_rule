@@ -1,1 +1,3 @@
 # openclash_rule
+#注释掉游戏Playstation这一项是因为国内PSN走直连是没有问题的，走代理反而会加载不出来
+#update欲解决PS5上仅Sptify不能正常使用，具体表现为会总是走直连而不是代理，目前推断PS5访问Spotify的域名可能不常规
