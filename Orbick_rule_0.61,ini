@@ -106,7 +106,7 @@ custom_proxy_group=🇬🇧 英国节点`select`(?=.*(英国|UK|London|🇬🇧)
 custom_proxy_group=🇰🇷 韩国节点`select`(?=.*(韩国|KR|Korea|首尔|🇰🇷)).*
 custom_proxy_group=🇷🇺 俄罗斯节点`select`(?=.*(俄罗斯|RU|Russia|🇷🇺)).*
 custom_proxy_group=🇨🇦 加拿大节点`select`(?=.*(加拿大|CA|Canada|🇨🇦)).*
-custom_proxy_group=🌐 其他地区`select`^(?!.*(香港|HK|日本|JP|新加坡|SG|台湾|TW|美国|US|美|德国|DE|英国|UK|韩国|KR|俄罗斯|RU|加拿大|CA)).*
+custom_proxy_group=🌐 其他地区`select`^(?!.*(香港|HK|日本|JP|新加坡|SG|台湾|TW|美国|US|美)).*
 
 ;============================================================
 ; 6. 【底层资源池：功能分类】
